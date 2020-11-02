@@ -2,5 +2,5 @@
 
 Dataset request email: jiahong.huang@kaust.edu.sa
 
-Flowchart of the proposed method.
+Flowchart of the proposed method:
 ![Screenshot](flowchart.png)
