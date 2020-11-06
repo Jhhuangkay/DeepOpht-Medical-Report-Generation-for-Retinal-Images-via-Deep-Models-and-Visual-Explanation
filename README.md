@@ -7,6 +7,8 @@ Paper: https://arxiv.org/abs/2011.00569, IEEE WACV 2021
 
 Dataset request email for NDA: jiahong.huang@kaust.edu.sa
 
+**Keywords**: Natural Language Processing, Medical Images, Large-scale Dataset
+
 ## Dataset Demo
 
 <img src="https://github.com/Jhhuangkay/DeepOpht-Medical-Report-Generation-for-Retinal-Images-via-Deep-Models-and-Visual-Explanation/blob/main/demo.png" width="500">
