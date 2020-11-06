@@ -5,7 +5,7 @@
 
 Paper: https://arxiv.org/abs/2011.00569, IEEE WACV 2021
 
-Dataset request email for NDA: jiahong.huang@kaust.edu.sa
+Open-acess Dataset request email for NDA: jiahong.huang@kaust.edu.sa
 
 **Keywords**: Natural Language Processing, Medical Images, Large-scale Dataset
 
