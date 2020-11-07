@@ -5,7 +5,7 @@
 
 Paper: https://arxiv.org/abs/2011.00569, IEEE WACV 2021
 
-Open-acess Dataset request email for NDA: jiahong.huang@kaust.edu.sa
+Open-access Dataset request email for NDA: jiahong.huang@kaust.edu.sa
 
 **Keywords**: Natural Language Processing, Medical Images, Large-scale Dataset
 
@@ -17,6 +17,6 @@ Open-acess Dataset request email for NDA: jiahong.huang@kaust.edu.sa
 
 <img src="https://github.com/Jhhuangkay/DeepOpht-Medical-Report-Generation-for-Retinal-Images-via-Deep-Models-and-Visual-Explanation/blob/main/word_cloud.png" width="500">
 
-## Flowchart of the proposed method:
+## Flowchart of the proposed method
 
 ![Screenshot](flowchart.png)
