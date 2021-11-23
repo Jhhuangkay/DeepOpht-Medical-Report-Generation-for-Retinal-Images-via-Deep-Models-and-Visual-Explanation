@@ -1,13 +1,12 @@
 # DeepOpht
 
-DeepOpht: Medical Report Generation for Retinal Images via Deep Models and Visual Explanation, IEEE WACV 2021
-
+"DeepOpht: Medical Report Generation for Retinal Images via Deep Models and Visual Explanation"; Jia-Hong Huang, C.-H. Huck Yang, Fangyu Liu, Meng Tian, Yi-Chieh Liu, Ting-Wei Wu, I-Hung Lin, Kang Wang, Hiromasa Morikawa, Hernghua Chang, Jesper Tegner, and Marcel Worring; Proceedings of the IEEE/CVF Winter Conference on Applications of Computer Vision (WACV), 2021, pp. 2442-2452.
 
 Paper: https://openaccess.thecvf.com/content/WACV2021/papers/Huang_DeepOpht_Medical_Report_Generation_for_Retinal_Images_via_Deep_Models_WACV_2021_paper.pdf
 
-Open-access Dataset request email for Non-disclosure agreement (NDA): deepeyenet.den@gmail.com
+Open-access DeepEyeNet Dataset request email for Non-disclosure agreement (NDA): deepeyenet.den@gmail.com
 
-**Keywords**: Natural Language Processing, Medical Images, Large-scale Dataset
+**Keywords**: Vision and Language, Medical Image Captioning/Medical Report Generation, Large-scale Retinal Images Dataset
 
 ## Dataset Demo
 
