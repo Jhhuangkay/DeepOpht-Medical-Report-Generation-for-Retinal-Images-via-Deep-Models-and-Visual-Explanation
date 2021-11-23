@@ -4,8 +4,7 @@
 
 Paper: https://openaccess.thecvf.com/content/WACV2021/html/Huang_DeepOpht_Medical_Report_Generation_for_Retinal_Images_via_Deep_Models_WACV_2021_paper.html
 
-
-![Paper](https://openaccess.thecvf.com/content/WACV2021/html/Huang_DeepOpht_Medical_Report_Generation_for_Retinal_Images_via_Deep_Models_WACV_2021_paper.html)
+Click [here](https://openaccess.thecvf.com/content/WACV2021/html/Huang_DeepOpht_Medical_Report_Generation_for_Retinal_Images_via_Deep_Models_WACV_2021_paper.html) to read the paper. 
 
 Open-access DeepEyeNet Dataset request email for Non-disclosure agreement (NDA): deepeyenet.den@gmail.com
 
