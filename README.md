@@ -8,7 +8,7 @@ Open-access DeepEyeNet Dataset request email for Non-disclosure agreement (NDA):
 
 **Keywords**: Vision and Language, Medical Image Captioning/Medical Report Generation, Large-scale Retinal Images Dataset
 
-## Dataset Demo
+## Dataset Examples
 
 <img src="https://github.com/Jhhuangkay/DeepOpht-Medical-Report-Generation-for-Retinal-Images-via-Deep-Models-and-Visual-Explanation/blob/main/demo.png" width="500">
 
