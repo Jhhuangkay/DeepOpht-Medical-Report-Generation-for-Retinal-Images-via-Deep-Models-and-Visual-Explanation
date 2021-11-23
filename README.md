@@ -23,3 +23,21 @@ Open-access DeepEyeNet (DEN) Dataset request email for Non-disclosure agreement 
 ## Retinal disease treatment procedure
 
 ![Screenshot](retinal_disease_treatment_procedure.png)
+
+## Dataset format
+
+The following is the json file format
+[
+  {
+    "eyenet0420/train_set/group41-174.jpg": {
+      "keywords": "macular hole",
+      "clinical-description": "43-year-old female, macular hole,"
+    }
+  },
+  {
+    "eyenet0420/train_set/group41-177.jpg": {
+      "keywords": "macular hole",
+      "clinical-description": "43-year-old female, macular hole,"
+    }
+  }
+]
