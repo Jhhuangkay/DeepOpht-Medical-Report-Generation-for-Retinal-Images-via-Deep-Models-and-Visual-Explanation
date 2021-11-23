@@ -19,3 +19,7 @@ Open-access DeepEyeNet Dataset request email for Non-disclosure agreement (NDA):
 ## Flowchart of the proposed method
 
 ![Screenshot](flowchart.png)
+
+## Retinal disease treatment procedure
+
+![Screenshot](retinal_disease_treatment_procedure.png)
