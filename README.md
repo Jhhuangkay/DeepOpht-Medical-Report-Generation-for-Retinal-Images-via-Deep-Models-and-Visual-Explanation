@@ -9,7 +9,7 @@ Open-access DeepEyeNet (DEN) Dataset request email for Terms of Use/Non-disclosu
 **Keywords**: Vision and Language, Medical Image Captioning/Medical Report Generation, Large-scale Retinal Images Dataset
 
 ## Dataset Examples
-Each image in the dataset has three types of expert-defined annotations, i.e., name of diseases/symptoms, keywords, and clinical description.
+Each image in the dataset has three types of expert-defined annotations, i.e., the name of disease/symptom, keywords, and clinical description.
 
 <img src="https://github.com/Jhhuangkay/DeepOpht-Medical-Report-Generation-for-Retinal-Images-via-Deep-Models-and-Visual-Explanation/blob/main/demo.png" width="500">
 
