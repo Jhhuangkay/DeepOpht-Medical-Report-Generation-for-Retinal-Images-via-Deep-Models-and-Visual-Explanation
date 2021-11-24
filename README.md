@@ -32,6 +32,7 @@ The corresponding value of the key {"keywords": "uveitis, dry age-related macula
 
 
 [
+
   {
     "eyenet0420/train_set/suspected-multiple-evanescent-white-dot-syndrome-4.jpg": {
       "keywords": "uveitis, dry age-related macular degeneration (dry amd), punctate inner choroidopathy (pic), multiple evanescent white dot syndrome (mewds)",
@@ -41,4 +42,5 @@ The corresponding value of the key {"keywords": "uveitis, dry age-related macula
       "keywords": "macular hole",
       "clinical-description": "43-year-old female, macular hole,"}
   }
+  
 ]
