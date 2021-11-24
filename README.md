@@ -26,9 +26,11 @@ Open-access DeepEyeNet (DEN) Dataset request email for Terms of Use/Non-disclosu
 
 ## Dataset format
 
-The following is the json file format. \\ 
+The following is the json file format. 
 The key "eyenet0420/train_set/suspected-multiple-evanescent-white-dot-syndrome-4.jpg" is an example of name of disease.
 The corresponding value of the key {"keywords": "uveitis, dry age-related macular degeneration (dry amd), punctate inner choroidopathy (pic), multiple evanescent white dot syndrome (mewds)", "clinical-description": "20 degree view, red free image of left macula of a 28-year-old caucasian female."} is a dict. It contains two dicts, i.e., the keys "keywords" and "clinical-description" with the corresponding vlaues "uveitis, dry age-related macular degeneration (dry amd), punctate inner choroidopathy (pic), multiple evanescent white dot syndrome (mewds)" and "20 degree view, red free image of left macula of a 28-year-old caucasian female.".
+
+
 [
   {
     "eyenet0420/train_set/suspected-multiple-evanescent-white-dot-syndrome-4.jpg": {
