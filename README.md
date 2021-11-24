@@ -40,7 +40,7 @@ The corresponding value of the key {"keywords": "uveitis, dry age-related macula
     
     "eyenet0420/train_set/group41-177.jpg": {
       "keywords": "macular hole",
-      "clinical-description": "43-year-old female, macular hole,"}
+      "clinical-description": "43-year-old female, macular hole."}
   }
   
 ]
