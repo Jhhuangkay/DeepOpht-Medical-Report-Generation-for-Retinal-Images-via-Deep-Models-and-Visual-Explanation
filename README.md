@@ -9,6 +9,7 @@ Open-access DeepEyeNet (DEN) Dataset request email for Terms of Use/Non-disclosu
 **Keywords**: Vision and Language, Medical Image Captioning/Medical Report Generation, Large-scale Retinal Images Dataset
 
 ## Dataset Examples
+Each image in the dataset has three types of expert-defined annotations, i.e., name of diseases/symptoms, keywords, and clinical description.
 
 <img src="https://github.com/Jhhuangkay/DeepOpht-Medical-Report-Generation-for-Retinal-Images-via-Deep-Models-and-Visual-Explanation/blob/main/demo.png" width="500">
 
@@ -26,9 +27,9 @@ Open-access DeepEyeNet (DEN) Dataset request email for Terms of Use/Non-disclosu
 
 ## Dataset format
 
-The following is the json file format. 
-The key "eyenet0420/train_set/suspected-multiple-evanescent-white-dot-syndrome-4.jpg" is an example of name of disease.
-The corresponding value of the key {"keywords": "uveitis, dry age-related macular degeneration (dry amd), punctate inner choroidopathy (pic), multiple evanescent white dot syndrome (mewds)", "clinical-description": "20 degree view, red free image of left macula of a 28-year-old caucasian female."} is a dict. It contains two dicts, i.e., the keys "keywords" and "clinical-description" with the corresponding vlaues "uveitis, dry age-related macular degeneration (dry amd), punctate inner choroidopathy (pic), multiple evanescent white dot syndrome (mewds)" and "20 degree view, red free image of left macula of a 28-year-old caucasian female.".
+Two examples from the DeepEyeNet dataset json file:
+The key "eyenet0420/train_set/suspected-multiple-evanescent-white-dot-syndrome-4.jpg" is YOUR-PATH + a name of disease.
+The corresponding value of the key {"keywords": "uveitis, dry age-related macular degeneration (dry amd), punctate inner choroidopathy (pic), multiple evanescent white dot syndrome (mewds)", "clinical-description": "20 degree view, red free image of left macula of a 28-year-old caucasian female."} is a dictionary. It contains two dictionaries, i.e., the keys "keywords" and "clinical-description" with the corresponding vlaues "uveitis, dry age-related macular degeneration (dry amd), punctate inner choroidopathy (pic), multiple evanescent white dot syndrome (mewds)" and "20 degree view, red free image of left macula of a 28-year-old caucasian female.", respectively.
 
 
 [
