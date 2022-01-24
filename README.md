@@ -59,7 +59,7 @@ The corresponding value of the key is a dictionary, i.e., {"keywords": "uveitis,
 ## Citations
 @inproceedings{huang2021deepopht,
   title={DeepOpht: medical report generation for retinal images via deep models and visual explanation},
-  author={Huang, Jia-Hong and Yang, C-H Huck and Liu, Fangyu and Tian, Meng and Liu, Yi-Chieh and Wu, Ting-Wei and Lin, I and Wang, Kang and Morikawa, Hiromasa and Chang, Hernghua and others},
+  author={Huang, Jia-Hong and Yang, C-H Huck and Liu, Fangyu and Tian, Meng and Liu, Yi-Chieh and Wu, Ting-Wei and Lin, I-Hung and Wang, Kang and Morikawa, Hiromasa and Chang, Hernghua and Tegner, Jesper and Worring, Marcel},
   booktitle={Proceedings of the IEEE/CVF winter conference on applications of computer vision},
   pages={2442--2452},
   year={2021}
@@ -67,7 +67,7 @@ The corresponding value of the key is a dictionary, i.e., {"keywords": "uveitis,
 
 @inproceedings{huang2022non,
   title={Non-Local Attention Improves Description Generation for Retinal Images},
-  author={Huang, Jia-Hong and Wu, Ting-Wei and Yang, C-H Huck and Shi, Zenglin and Lin, I and Tegner, Jesper and Worring, Marcel and others},
+  author={Huang, Jia-Hong and Wu, Ting-Wei and Yang, C-H Huck and Shi, Zenglin and Lin, I-Hung and Tegner, Jesper and Worring, Marcel},
   booktitle={Proceedings of the IEEE/CVF Winter Conference on Applications of Computer Vision},
   pages={1606--1615},
   year={2022}
