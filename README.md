@@ -56,7 +56,7 @@ The corresponding value of the key is a dictionary, i.e., {"keywords": "uveitis,
 6. "Auto-Classification of Retinal Diseases in the Limit of Sparse Data Using a Two-Streams Machine Learning Model". C-H Huck Yang, Fangyu Liu, Jia-Hong Huang, Meng Tian, Yi-Chieh Liu, I-Hung Lin, Jesper Tegner. AIRIA: AI for Retinal Image Analysis Workshop, Asian Conference on Computer Vision (ACCV), 2018.
 7. "Synthesizing New Retinal Symptom Images by Multiple Generative Models". Yi-Chieh Liu, Hao-Hsiang Yang, Chao-Han Huck Yang, Jia-Hong Huang, Meng Tian, Hiromasa Morikawa, Yi-Chang James Tsai, Jesper Tegner. AIRIA: AI for Retinal Image Analysis Workshop, Asian Conference on Computer Vision (ACCV), 2018 [Oral presentation]
 
-## Citations
+## Citation
 @inproceedings{huang2021deepopht,
   title={DeepOpht: medical report generation for retinal images via deep models and visual explanation},
   author={Huang, Jia-Hong and Yang, C-H Huck and Liu, Fangyu and Tian, Meng and Liu, Yi-Chieh and Wu, Ting-Wei and Lin, I-Hung and Wang, Kang and Morikawa, Hiromasa and Chang, Hernghua and Tegner, Jesper and Worring, Marcel},
@@ -65,10 +65,3 @@ The corresponding value of the key is a dictionary, i.e., {"keywords": "uveitis,
   year={2021}
 }
 
-@inproceedings{huang2022non,
-  title={Non-Local Attention Improves Description Generation for Retinal Images},
-  author={Huang, Jia-Hong and Wu, Ting-Wei and Yang, C-H Huck and Shi, Zenglin and Lin, I-Hung and Tegner, Jesper and Worring, Marcel},
-  booktitle={Proceedings of the IEEE/CVF Winter Conference on Applications of Computer Vision},
-  pages={1606--1615},
-  year={2022}
-}
