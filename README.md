@@ -7,10 +7,10 @@ Click [here](https://openaccess.thecvf.com/content/WACV2021/html/Huang_DeepOpht_
 
 **Open-access DeepEyeNet (DEN) Dataset** request email for Terms of Use/Non-disclosure agreement (NDA): 
 
-- Submit your request [here](https://docs.google.com/forms/d/1MVUEGG7YA6LHKDBK7Ny7TQf5IOI_xBlcvvcQI0S2fOI/edit) 
+- Submit your request [here](https://docs.google.com/forms/d/1MVUEGG7YA6LHKDBK7Ny7TQf5IOI_xBlcvvcQI0S2fOI/edit) for the dataset
 
 
-Other questions to: deepeyenet.den@gmail.com
+Other questions to: deepeyenet.den@gmail.com. We usualy check and reply within one to two business days. 
 
 **Keywords**: Vision and Language, Medical Image Captioning/Medical Report Generation, Large-scale Retinal Images Dataset
 
