@@ -14,6 +14,8 @@ Other questions to: deepeyenet.den@gmail.com. We usualy check the NDA and reply 
 
 **Keywords**: Vision and Language, Medical Image Captioning/Medical Report Generation, Large-scale Retinal Images Dataset
 
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
+
 ## Dataset Examples
 Each image in the dataset has three types of expert-defined annotations, i.e., the name of disease/symptom, keywords, and clinical description.
 
