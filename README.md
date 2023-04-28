@@ -4,7 +4,13 @@
 
 Click [here](https://openaccess.thecvf.com/content/WACV2021/html/Huang_DeepOpht_Medical_Report_Generation_for_Retinal_Images_via_Deep_Models_WACV_2021_paper.html) to read the DeepEyeNet paper. 
 
-Open-access DeepEyeNet (DEN) Dataset request email for Terms of Use/Non-disclosure agreement (NDA): deepeyenet.den@gmail.com
+
+**Open-access DeepEyeNet (DEN) Dataset** request email for Terms of Use/Non-disclosure agreement (NDA): 
+
+- Submit your request [here](https://docs.google.com/forms/d/1MVUEGG7YA6LHKDBK7Ny7TQf5IOI_xBlcvvcQI0S2fOI/edit) 
+
+
+Other questions to: deepeyenet.den@gmail.com
 
 **Keywords**: Vision and Language, Medical Image Captioning/Medical Report Generation, Large-scale Retinal Images Dataset
 
