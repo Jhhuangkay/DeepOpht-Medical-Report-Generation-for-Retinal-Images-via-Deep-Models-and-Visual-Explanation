@@ -57,7 +57,7 @@ The corresponding value of the key is a dictionary, i.e., {"keywords": "uveitis,
 
 ## Related works
 
-1. "DeepEyeNet: Generating Medical Report for Retinal Images". Jia-Hong Huang. ACM International Conference on Information and Knowledge Management (CIKM), 2025.
+1. "DeepEyeNet: Generating Medical Report for Retinal Images". Jia-Hong Huang. ACM International Conference on Information and Knowledge Management (CIKM), 2025. [PhD Symposium]
 2. "Expert-defined Keywords Improve Interpretability of Retinal Image Captioning". Ting-Wei Wu*, Jia-Hong Huang*, Joseph Lin, Marcel Worring. IEEE/CVF Winter Conference on Applications of Computer Vision (WACV), 2023. [Oral presentation]
 3. "Non-Local Attention Improves Description Generation for Retinal Images". Jia-Hong Huang, Ting-Wei Wu, Chao-Han Huck Yang, Zenglin Shi, I-Hung Lin, Jesper Tegner, Marcel Worring. IEEE/CVF Winter Conference on Applications of Computer Vision (WACV), 2022. [Oral presentation]
 4. "DeepOpht: Medical Report Generation for Retinal Images via Deep Models and Visual Explanation". Jia-Hong Huang, Chao-Han Huck Yang, Fangyu Liu, Meng Tian, Yi-Chieh Liu, Ting-Wei Wu, I-Hung Lin, Kang Wang, Hiromasa Morikawa, Hernghua Chang, Jesper Tegner, Marcel Worring. IEEE/CVF Winter Conference on Applications of Computer Vision (WACV), 2021.
